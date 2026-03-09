@@ -20,8 +20,6 @@
 
 ---
 
-## 如何查看成果（不需重跑也可驗收）
-1. 直接觀看 YouTube 成果影片：  
-   https://youtu.be/72iOcYRTO0A  
-2. 或在資料夾內開啟 `mario_test/`、`lunar_lander_test/` 的 mp4 觀看測試結果
-3. 若需重現流程，可開啟對應的 `.ipynb`（Mario_Final.ipynb / LunarLander.ipynb），記得裡面內容執行，執行 cell 1 得重啟工作階段繼續執行下方 cell
+## 如何查看成果
+1. 或在資料夾內開啟 `mario_test/`、`lunar_lander_test/` 的 mp4 觀看測試結果
+2. 若需重現流程，可開啟對應的 `.ipynb`（Mario_Final.ipynb / LunarLander.ipynb），記得裡面內容執行，執行 cell 1 得重啟工作階段繼續執行下方 cell
